@@ -1,11 +1,12 @@
 # -*- coding: utf-8 -*-
 
+
 def _caesar(c, num):
     """指定数文文字をシフト
     
     パラメータ
     ------------------
-    raw : str
+    c   : str
         文字
     num : int
         シフトする数
